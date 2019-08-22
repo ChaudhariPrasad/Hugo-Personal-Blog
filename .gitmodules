@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:ChaudhariPrasad/ChaudhariPrasad.github.io.git
 	branch = master
+[submodule "master"]
+	path = public
+	url = git@github.com:ChaudhariPrasad/ChaudhariPrasad.github.io.git
