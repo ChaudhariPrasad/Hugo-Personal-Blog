@@ -63,9 +63,9 @@ params:
   fathomSiteId: ""
   # If you want to use plausible(https://plausible.io) for analytics, add this section
   plausibleAnalytics:
-    domain: ""
+    domain: "chaudhariprasad.github.io"
     # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-    serverURL: ""
+    serverURL: "plausible.io"
 
 permalinks:
   post: "/:year/:month/:day/:filename/"

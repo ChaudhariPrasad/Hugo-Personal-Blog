@@ -5,11 +5,11 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
+    headline = "GOTCHAS"
     description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    github = "https://github.com/ChaudhariPrasad"
+    twitter = "https://twitter.com/_prasadc_"
+    email = "prsdchaudhari@gmail.com"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
@@ -30,3 +30,7 @@ theme = "ghostwriter"
     name = "Tags"
     url = "/tags/"
     weight = 3
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 4
