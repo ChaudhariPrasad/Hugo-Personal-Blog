@@ -5,14 +5,6 @@ set -e
 
 printf "\033[0;32mUpdating gitHub content repository...\033[0m\n"
 
-# Commit changes.
-msg="updating content repository $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
-fi
-
-printf $msg
-
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
