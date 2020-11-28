@@ -1,12 +1,12 @@
 baseurl = "/"
-title = "My blog"
+title = "chmod + x"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
-    intro = true
-    headline = "GOTCHAS"
-    description = "My description"
+    intro = false
+    #headline = "chmod + x"
+    #description = "My description"
     github = "https://github.com/ChaudhariPrasad"
     twitter = "https://twitter.com/_prasadc_"
     email = "prsdchaudhari@gmail.com"
