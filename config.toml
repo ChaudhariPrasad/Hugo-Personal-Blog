@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "LearnGo"
+title = "LearnGoGO"
 theme = "ghostwriter"
 
 [Params]
